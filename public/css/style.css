@@ -6,5 +6,9 @@ html {
 
 body {
 	background: lightblue;
-	color: grey;
+	color: darkblue;
+}
+
+h1 {
+	text-align: center;
 }
